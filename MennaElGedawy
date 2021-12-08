@@ -1,0 +1,11 @@
+git init
+
+git add MennaElGedawy
+
+git commit -m "Add Menna El Gedawy"
+
+git branch -M main
+
+git remote add origin git@github.com:Menna97/lab1_vc.git
+
+git push origin main
